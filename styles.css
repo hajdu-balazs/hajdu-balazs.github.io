@@ -540,9 +540,11 @@ body {
   
 	.header {
 		height: 400px;
-		transition: 5s;
+		/*transition: 5s;
 		animation-name: animate;
+		animation: animate 5s ease-out both;*/
 		animation: animate 5s ease-out both;
+		
   }
   
 	@keyframes animate {
