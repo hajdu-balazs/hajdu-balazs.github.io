@@ -70,8 +70,8 @@ body {
 }
 
 .nav-li-a:hover {
-  color: var(--primary-font-color);
-  background-color: rgba(128, 128, 128, .3);
+	color: var(--primary-font-color);
+	background-color: rgba(128, 128, 128, .3);
 }
 
 /*******About*******/
@@ -100,8 +100,8 @@ body {
 
 .about-summary {
 	color: var(--primary-font-color);
-  font-size: 1.5rem;
-  line-height: 2.2rem;
+	font-size: 1.5rem;
+	line-height: 2.2rem;
 }
 
 /*******Projects*******/
@@ -333,7 +333,7 @@ body {
 		font-size: 1.5rem;
     		margin-bottom: 25px;
    		box-shadow: rgb(255 255 255 / 20%) 5px 5px 10px 10px;
-	}
+  }
 
 	.nav-ul {
 		display: flex;
