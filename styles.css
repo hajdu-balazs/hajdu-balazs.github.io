@@ -148,7 +148,7 @@ body {
 	color: var(--primary-font-color);
 }
 
-.project-1, .project-2, .project-3, .project-4 {
+.project-item {
 	min-width: 220px;
 	height: 180px;
 	margin-bottom: 30px;
@@ -156,7 +156,7 @@ body {
 	position: relative;
 }
 
-.project-1-transition, .project-2-transition, .project-3-transition, .project-4-transition {
+.project-item-transition {
 	background-color: darkgrey;
 	min-width: 220px;
 	height: 180px;
