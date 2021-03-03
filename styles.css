@@ -221,7 +221,6 @@ body {
 	text-align: center;
 	background-color: darkgrey;
 	border: 1px solid #f0f0f0;
-	border-radius: 10px;
  	 margin-bottom: 3rem;
   
   }
@@ -485,7 +484,6 @@ body {
   
 	.form {
 		min-width: 350px;
-		border-radius: 15px;
 		margin-bottom: 80px;
   }
   
